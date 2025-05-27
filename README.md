@@ -1,7 +1,7 @@
 ## Hi Im Rudra Pratap Singh 
 # 💫 About Me:
 Exploring :  Data Visualization Tool , Modern Framework and AI tools<br>Passionate: Frontend developer , C++ DSA , Machine Learning and Data seta<br>Project : Jarvis & Love Calculator<br>Ask me about : C++,HTML, CSS, Python and Data sets<br>Reach me: rprtap098@gmail.com<br>
-<img aling = "right" alt="Coding" width ="400" src = "https://www.google.com/search?sca_esv=4b995b00999b8af2&rlz=1C1UEAD_enIN1071IN1071&sxsrf=AE3TifNZtiyKLWqPNixFBmimqLvtAT6omQ:1748375924369&q=animated+coding+gif&udm=2&fbs=AIIjpHx8U4uZDOCVmaJPlNVvOCUdDaBv2kf5r9AlO4g-pMaOH20X_YTmPTfs3sWeJjfEL9Y34defwKuu9EGE7qqRvA_0FNkbap3OelIMMuG4npsFXMKNHU2c4xW9F-DVzDurTWOtsgCFJrXxdkWMCBgR0VzsyJu2r91sii5HCYvL4Omqc97uSfV-pHtJOsJq6C3GFXj6ZQXaPQwSb-ceGPvqAt5Mgnu-cvPH9fPNaEvRorUXr_J-fSsn9g296XVE8uRUQJrjxL9p4pXsIKr_ndnRSMdrQplrjQ&sa=X&sqi=2&ved=2ahUKEwi0sp_vt8SNAxXM8DgGHVV7EiYQtKgLegQIFxAB&biw=767&bih=695&dpr=1.25#vhid=dbrfb5dvHO4gVM&vssid=mosaic">
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shashank_yadav_10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudra-pratap-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rprtap098@gmail.com) 
